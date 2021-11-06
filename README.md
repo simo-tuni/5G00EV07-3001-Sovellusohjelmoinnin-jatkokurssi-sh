@@ -1,1 +1,1 @@
-"# 5G00EV07-3001-Sovellusohjelmoinnin-jatkokurssi-sh" 
+5G00EV07-3001 Sovellusohjelmoinnin jatkokurssin harjoitukset
