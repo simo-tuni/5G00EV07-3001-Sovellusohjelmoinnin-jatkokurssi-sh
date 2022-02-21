@@ -1,0 +1,12 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>kmh.png</file>
+        <file>needle1.png</file>
+        <file>needle2.png</file>
+        <file>rpm.png</file>
+        <file>needle3.png</file>
+        <file>Dashboard.qml</file>
+        <file>EngineData.qml</file>
+    </qresource>
+</RCC>
